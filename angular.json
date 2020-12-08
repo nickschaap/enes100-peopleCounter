@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "enes100"
+    }
+  },
+  "defaultProject": "enes100",
+  "cli": {
+    "analytics": "8e98ec22-4e73-4a27-9e84-eb7ef2e0c701"
+  }
 }
